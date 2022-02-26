@@ -1,5 +1,5 @@
 # Pocket-Algorithm-ML
-Programming Exercise 1(Ex 3.2 (book: Learning from Data))</br>
+#### Programming Exercise 1(Ex 3.2 (book: Learning from Data))
 Take d = 2 and create a data set D of size N = 100 that is not linearly
 separable. You can do so by first choosing a random line in the plane as your
 target function and the inputs xn of the data set as random points in the plane.
