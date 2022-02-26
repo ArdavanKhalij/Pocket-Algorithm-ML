@@ -61,5 +61,5 @@ print(ClassificationsWithRandomChange)
 # Plots
 # plt.scatter(Samples_X,Samples_Y,c=Classifications)
 # plt.show()
-plt.scatter(Samples_X,Samples_Y,c=ClassificationsWithRandomChange)
+plt.scatter(Samples_X, Samples_Y, c=ClassificationsWithRandomChange)
 plt.show()
